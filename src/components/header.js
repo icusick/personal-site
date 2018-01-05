@@ -1,5 +1,5 @@
-import React, { Component } from 'react';
-import '../styles.css';
+import React from 'react';
+import '../index.css';
 
 const Header = () => (
 	<div className="header">
