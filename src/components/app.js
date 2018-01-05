@@ -15,7 +15,7 @@ class App extends Component {
 	}
 
 	_handleScroll() { 
-    	if (document.documentElement.scrollY > 230) {
+    	if (document.documentElement.scrollTop > 230) {
        		this.setState({className: 'show', classNameImg: 'bison-show'})
        		// console.log(document.documentElement.scrollTop)
      	} 

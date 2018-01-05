@@ -50,7 +50,7 @@ body {
    height: 20em;
    /*-webkit-animation: slide-in 1s forwards;*/
    /*animation: slide-in 1s forwards;*/
-   -webkit-transform: translateX(600px);
+   -webkit-transform: translateX(130%);
    -webkit-transition: all 3s cubic-bezier(.42,.64,.17,.92);
 }
 
